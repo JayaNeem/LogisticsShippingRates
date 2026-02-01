@@ -18,4 +18,4 @@ All contributions undergo a code review process.
 Licensing:
 Contributions are licensed.
 
-This is a Coursera practice project (Part 1 - GitHub UI)
+This is a Coursera Git and GitHub practice project (Part 1 - GitHub UI)
